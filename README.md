@@ -13,7 +13,7 @@
 
 ```shell
 # 克隆代码
-git clone https://github.com/idootop/migpt-next.git
+git clone https://github.com/JMOMO163/migpt-next.git
 
 # 进入配置文件所在目录
 cd migpt-next/apps/example
